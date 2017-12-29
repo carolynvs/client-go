@@ -18,3 +18,7 @@
 [[constraint]]
   branch = "release-1.7"
   name = "k8s.io/apimachinery"
+
+[[constraint]]
+  name = "github.com/ugorji/go"
+  revision = "8c0409fcbb70099c748d71f714529204975f6c3f"
