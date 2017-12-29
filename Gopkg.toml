@@ -1,0 +1,12 @@
+
+[[constraint]]
+  name = "github.com/Azure/go-autorest"
+  version = "8.0.0"
+
+[[constraint]]
+  name = "github.com/emicklei/go-restful-swagger12"
+  version = "1.0.1"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/howeyc/gopass"
