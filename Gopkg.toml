@@ -6,3 +6,7 @@
 [[constraint]]
   name = "k8s.io/apimachinery"
   branch = "release-1.6"
+
+[[constraint]]
+  name = "github.com/emicklei/go-restful"
+  revision = "ad3e7d5a0a11fbbead57cc9353720a60a0a2793f"
