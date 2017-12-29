@@ -10,3 +10,11 @@
 [[constraint]]
   branch = "master"
   name = "github.com/howeyc/gopass"
+
+[[constraint]]
+  name = "github.com/peterbourgon/diskv"
+  version = "2.0.1"
+
+[[constraint]]
+  branch = "release-1.7"
+  name = "k8s.io/apimachinery"
